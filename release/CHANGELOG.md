@@ -2,6 +2,20 @@
 
 # 
 
+
+
+# \### v2.0.3
+
+# \*\*Added\*\*
+
+# \- GlobalVoiceVolume
+
+# \- ScanRecolorPlus
+
+
+
+
+
 # \### v2.0.2
 
 # \*\*Added\*\*
@@ -9,6 +23,10 @@
 # \- SortMyShipPleeese
 
 # \- HoneeItemIcons
+
+# \- LateJoinAllInOne
+
+
 
 # 
 
@@ -136,9 +154,9 @@
 
 # \*\*Removed\*\*
 
-# \- Night vision  
+# \- Night vision
 
-# &nbsp; - Caused infinite errors and broke some modpacks
+#   - Caused infinite errors and broke some modpacks
 
 # 
 
@@ -151,6 +169,4 @@
 # \*\*Added\*\*
 
 # \- Initial release
-
-
 

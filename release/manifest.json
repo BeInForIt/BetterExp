@@ -1,6 +1,6 @@
 {
   "name": "Betterexp",
-  "version_number": "2.0.2",
+  "version_number": "2.0.3",
   "website_url": "https://github.com/BeInForIt",
   "description": "some usefull client mods for other modpacks",
   "dependencies": [
@@ -48,6 +48,9 @@
     "xilophor-StaticNetcodeLib-1.1.1",
     "xilophor-LethalNetworkAPI-3.3.2",
     "debit_card_debit-HoneeItemIcons-1.0.3",
-    "HoppinsHauler-SortMyShipPleeese-1.0.0"
+    "HoppinsHauler-SortMyShipPleeese-1.0.0",
+    "HoppinsHauler-LateJoinAllInOne-1.0.0",
+    "HoppinsHauler-GlobalVoiceVolume-1.0.1",
+    "HoppinsHauler-ScanRecolorPlus-1.0.0"
   ]
 }
